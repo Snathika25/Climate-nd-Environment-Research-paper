@@ -1,6 +1,7 @@
 **Climate and Environmental Data Analysis Using Machine Learning Models**
 
 **->** This repository contains research and code for a climate change prediction system that uses machine learning algorithms—Support Vector Machine (SVM), k-Nearest Neighbors (KNN), and Logistic Regression—to classify climate-related events. 
+
 **->** The models are trained on environmental data, including variables like temperature, precipitation, and greenhouse gas emissions, to predict abnormal climate trends and extreme weather events.
 
 Key Highlights:
