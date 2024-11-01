@@ -7,8 +7,10 @@ Key Highlights:
 
 **Data Collection & Preprocessing:** 
                                   The study utilizes publicly available climate data from sources like NOAA and ECMWF, ensuring thorough preprocessing with methods such as feature scaling and dimensionality reduction.
+                                  
 **Modeling Approaches:** 
                       Each algorithm has unique advantages—SVM for high-dimensional data, KNN for pattern similarity, and Logistic Regression for binary classification.
+                      
 **Evaluation Metrics:** 
                       Models are assessed using precision, recall, F1-score, and ROC-AUC to address imbalanced data challenges typical of climate datasets.
 
